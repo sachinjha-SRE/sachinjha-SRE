@@ -4,20 +4,24 @@
   </a>
 </div>
 
-Building scalable, resilient, and automated cloud-native infrastructure. Passionate about minimizing toil through automation and robust system architecture.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sachinjha-SRE&label=Profile%20Views&color=2EBC4F&style=flat" alt="Profile Views" />
+</div>
 
-### 🛠️ Core Stack & Architecture
-- **Cloud & OS:** AWS, Azure, Linux (Ubuntu/CentOS)
-- **Container Orchestration:** Kubernetes (AKS, EKS), Docker, Helm
-- **Infrastructure as Code (IaC):** Terraform
-- **CI/CD & Delivery:** AzureDevOps, Jenkins, ArgoCD, GitHub Actions
+Building and operating scalable cloud-native infrastructure, focused on high availability, observability, and resilient SaaS architectures. Currently managing containerized distributed systems at scale.
+
+###  Core Stack & Architecture
+- **OS:** Linux (Ubuntu/CentOS)
+- **Cloud & Orchestration:** Azure (AKS), AWS (EKS), Docker
 - **Observability & Reliability:** Prometheus, Grafana, ELK Stack
-- **Scripting:** Bash, Go (Learning)
+- **Infrastructure & Delivery:** Terraform, Jenkins, Azure DevOps, ArgoCD
+- **Databases:** PostgreSQL
+- **Programming:** GoLang, Bash
 
-### 🚀 Current Focus & Proof of Work
-- Architecting production-ready EKS clusters with **Karpenter** for intelligent node autoscaling.
-- Managing robust CI/CD pipelines and troubleshooting intermittent deployment failures.
-- Automating server operations and deep-diving into storage constraints via Bash scripting.
+### Engineering Impact & Scale
+- **High-Traffic Systems:** Managing and scaling microservices on AKS handling **30,000–40,000 RPM** (Requests Per Minute - a metric used to measure the throughput or load on a server), ensuring maximum uptime for SaaS platforms.
+- **Reliability & Debugging:** Driving deep **RCA** (Root Cause Analysis - a systematic process for identifying the origins of faults or problems) for microservice failures and troubleshooting complex PostgreSQL bottlenecks.
+- **Infrastructure Automation:** Partnering with development teams to automate CI/CD pipelines, reducing deployment friction and operational toil.
 
 ### 📫 Let's Connect
 - **Email:** sachin.jha.dev@gmail.com
