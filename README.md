@@ -1,4 +1,4 @@
-#  Sachin Jha | Site Reliability Engineer | Platform Engineer | DevOps Engineer
+# Site Reliability Engineer | Platform Engineer | DevOps Engineer
 
 Building scalable, resilient, and automated cloud-native infrastructure. Passionate about minimizing toil through automation and robust system architecture.
 
@@ -6,7 +6,7 @@ Building scalable, resilient, and automated cloud-native infrastructure. Passion
 - **Cloud & OS:** AWS, Azure, Linux (Ubuntu/CentOS)
 - **Container Orchestration:** Kubernetes (EKS), Docker, Helm
 - **Infrastructure as Code (IaC):** Terraform
-- **CI/CD & Delivery:** Jenkins, ArgoCD, GitHub Actions
+- **CI/CD & Delivery:** Jenkins, AzureDevOps, ArgoCD, GitHub Actions
 - **Observability & Reliability:** Prometheus, Grafana, ELK Stack
 - **Scripting:** Python, Bash, Go (Learning)
 
