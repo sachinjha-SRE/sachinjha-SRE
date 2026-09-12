@@ -19,8 +19,8 @@ Building and operating scalable cloud-native infrastructure, focused on high ava
 - **Programming:** GoLang, Bash
 
 ### Engineering Impact & Scale
-- **High-Traffic Systems:** Managing and scaling microservices on AKS handling **30,000–40,000 RPM** (Requests Per Minute - a metric used to measure the throughput or load on a server), ensuring maximum uptime for SaaS platforms.
-- **Reliability & Debugging:** Driving deep **RCA** (Root Cause Analysis - a systematic process for identifying the origins of faults or problems) for microservice failures and troubleshooting complex PostgreSQL bottlenecks.
+- **High-Traffic Systems:** Managing and scaling microservices on AKS handling **30,000–40,000 RPM**, ensuring maximum uptime for SaaS platforms.
+- **Reliability & Debugging:** Driving deep **RCA** for microservice failures and troubleshooting complex PostgreSQL bottlenecks.
 - **Infrastructure Automation:** Partnering with development teams to automate CI/CD pipelines, reducing deployment friction and operational toil.
 
 ### 📫 Let's Connect
