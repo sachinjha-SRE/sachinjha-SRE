@@ -1,16 +1,20 @@
-## Hi there 👋
+# ⚡ Sachin Jha | Site Reliability Engineer | Platform Engineer | DevOps Engineer
 
-<!--
-**sachinjha-SRE/sachinjha-SRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building scalable, resilient, and automated cloud-native infrastructure. Passionate about minimizing toil through automation and robust system architecture.
 
-Here are some ideas to get you started:
+### 🛠️ Core Stack & Architecture
+- **Cloud & OS:** AWS, Azure, Linux (Ubuntu/CentOS)
+- **Container Orchestration:** Kubernetes (EKS), Docker, Helm
+- **Infrastructure as Code (IaC):** Terraform
+- **CI/CD & Delivery:** Jenkins, ArgoCD, GitHub Actions
+- **Observability & Reliability:** Prometheus, Grafana, ELK Stack
+- **Scripting:** Python, Bash, Go (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Focus & Proof of Work
+- Architecting production-ready EKS clusters with **Karpenter** for intelligent node autoscaling.
+- Managing robust CI/CD pipelines and troubleshooting intermittent deployment failures.
+- Automating server operations and deep-diving into storage constraints via Bash scripting.
+
+### 📫 Let's Connect
+- **Email:** sachin.jha.dev@gmail.com
+- **LinkedIn:** [linkedin.com/in/sachin-jha-565151211](https://www.linkedin.com/in/sachin-jha-565151211)
